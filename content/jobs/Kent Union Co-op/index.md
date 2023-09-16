@@ -4,6 +4,7 @@ title: 'Duty Supervisor'
 company: 'Kent Union Co-op'
 location: 'Canterbury, UK'
 range: 'April 2019 - September 2023'
+url: 'https://github.com/Mysftz'
 ---
 
 - Relied on upkeeping the accountancy books for the store as part of Kent Union Retail.

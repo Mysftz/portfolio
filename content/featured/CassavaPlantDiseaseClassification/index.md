@@ -1,12 +1,13 @@
 ---
 date: '3'
 title: 'Cassava Plant Disease Classification'
+cover: './demo.png'
 github: 'https://github.com/mysftz/cassava-plant-disease-classification'
+cta: 'https://github.com/mysftz/cassava-plant-disease-classification'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Python
+  - Numpy
+  - Sklearn
 company: 'University of Kent'
 showInProjects: true
 ---

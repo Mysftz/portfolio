@@ -1,6 +1,7 @@
 ---
 date: '1'
 title: 'Brain-Computer Interface Classification in MatLab'
+cover: './demo.png'
 github: 'https://github.com/mysftz/brain-computer-interface-classification-matlab'
 tech:
   - MatLab

@@ -2,6 +2,7 @@
 date: '2022-03-01'
 title: 'Data Mining in WeKA'
 github: 'https://github.com/mysftz/data-mining-and-knowledge-discovery-in-weka'
+external: 'https://github.com/mysftz/data-mining-and-knowledge-discovery-in-weka'
 tech:
   - Python
   - sklearn

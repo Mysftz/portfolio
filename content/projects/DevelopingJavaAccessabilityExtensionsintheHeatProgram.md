@@ -2,6 +2,7 @@
 date: '2022-02-01'
 title: 'Developing Java Accessability Extensions in the Heat Program'
 github: 'https://github.com/mysftz/Developing-Java-Accessability-Extensions-in-the-Heat-Program'
+external: 'https://github.com/mysftz/Developing-Java-Accessability-Extensions-in-the-Heat-Program'
 tech:
   - Java
   - HTML

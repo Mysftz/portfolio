@@ -4,6 +4,7 @@ title: 'Duty Assistant'
 company: 'Kent Sport'
 location: 'Canterbury, UK'
 range: 'February - September 2023'
+url: 'https://github.com/Mysftz'
 ---
 
 - Maintained links with students, locals and youth clubs by hosting various and repeating events.
