@@ -1,9 +1,7 @@
 ---
 date: '2'
 title: 'Brain-Computer Interface Classification in Python'
-''' cover: '/demo.png' '''
 github: 'https://github.com/mysftz/brain-computer-interface-classification-python'
-''' external: 'https://spotify-profile.herokuapp.com/' '''
 tech:
   - Python
   - Tensorflow

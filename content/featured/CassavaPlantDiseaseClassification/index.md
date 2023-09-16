@@ -1,9 +1,7 @@
 ---
 date: '3'
 title: 'Cassava Plant Disease Classification'
-''' cover: '/course-card.png' '''
 github: 'https://github.com/mysftz/cassava-plant-disease-classification'
-''' cta: 'https://www.newline.co/courses/build-a-spotify-connected-app' '''
 tech:
   - React
   - Express
