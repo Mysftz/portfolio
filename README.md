@@ -1,87 +1,107 @@
+<a name="readme-top"></a>
+
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+
+[![alt text](https://github.com/Mysftz/Mysftz/blob/main/assets/READMEHeader.jpeg?raw=true)](https://github.com/Mysftz)
+
+# Mysftz Portfolio Website
+
+[![GitHub][GitHub-shield]](https://github.com/Mysftz/Portfolio)
+[![Contributors][contributors-shield]](https://github.com/Mysftz/Portfolio/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/Mysftz/Portfolio/network/members)
+[![Stargazers][stars-shield]](https://github.com/Mysftz/Portfolio/stargazers)
+[![Issues][issues-shield]](https://github.com/Mysftz/Portfolio/issues)
+[![License][license-shield]](https://github.com/Mysftz/Portfolio/blob/main/LICENSE)
+
 </div>
-<h1 align="center">
-  brittanychiang.com - v4
-</h1>
+
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
+  <a href="#about-the-project">About The Project</a> •
+  <a href="#built-with">Built With</a> •
+  <a href="https://github.com/Mysftz/Portfolio/archive/refs/heads/main.zip">Download</a> • 
+  <a href="#usage">Usage</a> •
+  <a href="#license">License</a> •
+  <a href="#other-projects">Other Projects</a> •
+  <a href="#contact">Contact</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#introduction">Infomation</a></li>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#other-infomation">Other Infomation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#other-projects">Other Projects</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-## 🚨 Forking this repo (please read!)
+<!-- ABOUT THE PROJECT -->
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+## About The Project
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+### Introduction
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+This is a website script for my portfolio.
 
-### TL;DR
+### Built With
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+HTML, CSS
 
-## 🛠 Installation & Set Up
+### Other Infomation
 
-1. Install the Gatsby CLI
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+<!-- USAGE -->
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+## Usage
 
-   ```sh
-   nvm install
-   ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-3. Install dependencies
+<!-- LICENSE -->
 
-   ```sh
-   yarn
-   ```
+## License
 
-4. Start the development server
+Distributed under the MIT License. See `LICENSE` for more information.
 
-   ```sh
-   npm start
-   ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Building and Running for Production
+<!-- OTHER PROJECTS -->
 
-1. Generate a full static production build
+## Other Projects
 
-   ```sh
-   npm run build
-   ```
+<div align="center">
+<a href="https://github.com/stars/Mysftz/lists/data-science-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-DataScience.jpeg?raw=true" alt="Data Science Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/data-analysis-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-DataAnalysis.jpeg?raw=true" alt="Data Analysis Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/university-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-University.jpeg?raw=true" alt="University Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/python-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-Python.jpeg?raw=true" alt="Python Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/latex-projects" style="margin:10px; padding-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-Latex.jpeg?raw=true" alt="LaTeX Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/other-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-Other.jpeg?raw=true" alt="Other Projects Button" width="265" height="75"></a>
+</div>
 
-1. Preview the site as it will appear once deployed
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-   ```sh
-   npm run serve
-   ```
+<!-- CONTACT -->
 
-## 🎨 Color Reference
+## Contact
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
-| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+<div align="center">
+
+GitHub: [@Mysftz](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Portfolio: [Website](https://mysftz.github.io/Portfolio) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://www.linkedin.com/in/lrgtomaszewski/) &nbsp;&middot;&nbsp; Instagram: [@Mysftz](https://www.instagram.com/mysftz/) &nbsp;&middot;&nbsp; Twitter: [@MysftzUK](https://twitter.com/MysftzUK)
+
+</div>
+
+[contributors-shield]: https://img.shields.io/github/contributors/mysftz/Portfolio.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/mysftz/Portfolio.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/mysftz/Portfolio.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/mysftz/Portfolio.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/mysftz/Portfolio.svg?style=for-the-badge
+[github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555

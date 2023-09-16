@@ -60,28 +60,22 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Łukasz Tomaszewski.</h2>;
+  const three = <h3 className="big-heading">I build things from data.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a data scientist with 5+ years of experience using python and matlab, with a variety of
+        experience in other coding languages. I hold a masters of science degree in artificial
+        intelligence and a bachelors of science in astronomy, space science and astrophysics. I'm
+        passionate about data science for the reason that data can tell us a lot about how we have
+        lived, do live and will live.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href="https://github.com/Mysftz" target="_blank" rel="noreferrer">
+      Check out my Github!
     </a>
   );
 
