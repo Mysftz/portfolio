@@ -1,11 +1,11 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/Portfolio',
+  pathPrefix: '/portfolio',
   siteMetadata: {
     title: 'Łukasz Tomaszewski',
     description: 'Łukasz Tomaszewski is a data scientist.',
-    siteUrl: 'https://mysftz.github.io/Portfolio', // No trailing slash allowed!
+    siteUrl: 'https://mysftz.github.io/portfolio', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@mysftzuk',
   },

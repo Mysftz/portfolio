@@ -2,23 +2,23 @@
 
 <div align="center">
 
-[![alt text](https://github.com/Mysftz/Mysftz/blob/main/assets/READMEHeader.jpeg?raw=true)](https://github.com/Mysftz)
+[![alt text](https://github.com/Mysftz/mysftz/blob/main/assets/READMEHeader.jpeg?raw=true)](https://github.com/Mysftz)
 
 # Mysftz Portfolio Website
 
-[![GitHub][GitHub-shield]](https://github.com/Mysftz/Portfolio)
-[![Contributors][contributors-shield]](https://github.com/Mysftz/Portfolio/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/Mysftz/Portfolio/network/members)
-[![Stargazers][stars-shield]](https://github.com/Mysftz/Portfolio/stargazers)
-[![Issues][issues-shield]](https://github.com/Mysftz/Portfolio/issues)
-[![License][license-shield]](https://github.com/Mysftz/Portfolio/blob/main/LICENSE)
+[![GitHub][GitHub-shield]](https://github.com/Mysftz/portfolio)
+[![Contributors][contributors-shield]](https://github.com/Mysftz/portfolio/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/Mysftz/portfolio/network/members)
+[![Stargazers][stars-shield]](https://github.com/Mysftz/portfolio/stargazers)
+[![Issues][issues-shield]](https://github.com/Mysftz/portfolio/issues)
+[![License][license-shield]](https://github.com/Mysftz/portfolio/blob/main/LICENSE)
 
 </div>
 
 <p align="center">
   <a href="#about-the-project">About The Project</a> •
   <a href="#built-with">Built With</a> •
-  <a href="https://github.com/Mysftz/Portfolio/archive/refs/heads/main.zip">Download</a> • 
+  <a href="https://github.com/Mysftz/portfolio/archive/refs/heads/main.zip">Download</a> • 
   <a href="#usage">Usage</a> •
   <a href="#license">License</a> •
   <a href="#other-projects">Other Projects</a> •
@@ -79,12 +79,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Other Projects
 
 <div align="center">
-<a href="https://github.com/stars/Mysftz/lists/data-science-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-DataScience.jpeg?raw=true" alt="Data Science Projects Button" width="265" height="75"></a>
-<a href="https://github.com/stars/Mysftz/lists/data-analysis-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-DataAnalysis.jpeg?raw=true" alt="Data Analysis Projects Button" width="265" height="75"></a>
-<a href="https://github.com/stars/Mysftz/lists/university-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-University.jpeg?raw=true" alt="University Projects Button" width="265" height="75"></a>
-<a href="https://github.com/stars/Mysftz/lists/python-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-Python.jpeg?raw=true" alt="Python Projects Button" width="265" height="75"></a>
-<a href="https://github.com/stars/Mysftz/lists/latex-projects" style="margin:10px; padding-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-Latex.jpeg?raw=true" alt="LaTeX Projects Button" width="265" height="75"></a>
-<a href="https://github.com/stars/Mysftz/lists/other-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/Mysftz/blob/main/assets/Button-Other.jpeg?raw=true" alt="Other Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/data-science-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/mysftz/blob/main/assets/Button-DataScience.jpeg?raw=true" alt="Data Science Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/data-analysis-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/mysftz/blob/main/assets/Button-DataAnalysis.jpeg?raw=true" alt="Data Analysis Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/university-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/mysftz/blob/main/assets/Button-University.jpeg?raw=true" alt="University Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/python-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/mysftz/blob/main/assets/Button-Python.jpeg?raw=true" alt="Python Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/latex-projects" style="margin:10px; padding-bottom:50px"><img src="https://github.com/Mysftz/mysftz/blob/main/assets/Button-Latex.jpeg?raw=true" alt="LaTeX Projects Button" width="265" height="75"></a>
+<a href="https://github.com/stars/Mysftz/lists/other-projects" style="margin:10px; margin-bottom:50px"><img src="https://github.com/Mysftz/mysftz/blob/main/assets/Button-Other.jpeg?raw=true" alt="Other Projects Button" width="265" height="75"></a>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,13 +95,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-GitHub: [@Mysftz](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Portfolio: [Website](https://mysftz.github.io/Portfolio) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://www.linkedin.com/in/lrgtomaszewski/) &nbsp;&middot;&nbsp; Instagram: [@Mysftz](https://www.instagram.com/mysftz/) &nbsp;&middot;&nbsp; Twitter: [@MysftzUK](https://twitter.com/MysftzUK)
+GitHub: [@Mysftz](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Portfolio: [Website](https://mysftz.github.io/portfolio) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://www.linkedin.com/in/lrgtomaszewski/) &nbsp;&middot;&nbsp; Instagram: [@Mysftz](https://www.instagram.com/mysftz/) &nbsp;&middot;&nbsp; Twitter: [@MysftzUK](https://twitter.com/MysftzUK)
 
 </div>
 
-[contributors-shield]: https://img.shields.io/github/contributors/mysftz/Portfolio.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/mysftz/Portfolio.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/mysftz/Portfolio.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/mysftz/Portfolio.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/mysftz/Portfolio.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/mysftz/portfolio.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/mysftz/portfolio.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/mysftz/portfolio.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/mysftz/portfolio.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/mysftz/portfolio.svg?style=for-the-badge
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
