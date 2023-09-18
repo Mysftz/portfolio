@@ -1,8 +1,7 @@
 ---
-date: '2022-03-01'
+date: '2022-04-20'
 title: 'Data Mining in WeKA'
 github: 'https://github.com/mysftz/data-mining-and-knowledge-discovery-in-weka'
-external: 'https://github.com/mysftz/data-mining-and-knowledge-discovery-in-weka'
 tech:
   - Python
   - sklearn
@@ -12,4 +11,4 @@ company: 'University of Kent'
 showInProjects: true
 ---
 
-A Python data mining simulation into WEKA software analysis, plotting multiple results from mined data.
+A Python data mining simulation into WEKA software analysis, using sklearn to analyse the mined data and plot the revised data.

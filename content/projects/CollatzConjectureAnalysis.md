@@ -1,8 +1,7 @@
 ---
-date: '2023-02-01'
+date: '2023-06-18'
 title: 'Collaztz Conjecture Analysis'
 github: 'https://github.com/mysftz/collatz-conjecture-analysis'
-external: 'https://github.com/mysftz/collatz-conjecture-analysis'
 tech:
   - Python
   - numpy
@@ -10,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-A python analysis of the famous unsolved Collatz Conjecture problem.
+An analysis into the famous mathematical problem of the Collatz conjecture.

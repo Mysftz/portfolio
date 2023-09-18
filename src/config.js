@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Website',
-      url: 'https://mysftz.github.io/Portfolio',
+      url: 'https://mysftz.github.io/portfolio',
     },
   ],
 
