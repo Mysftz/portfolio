@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mysftz.github.io/Portfolio/sitemap-index.xml
+Sitemap: https://mysftz.github.io/portfolio/sitemap-index.xml
 Host: https://mysftz.github.io
