@@ -8,5 +8,7 @@ tech:
   - Overleaf
   - pdflatex
 company: 'University of Kent'
-showInProjects: false
+showInProjects: true
 ---
+
+My bachelors research LaTeX thesis to design a new container for nuclear waste.

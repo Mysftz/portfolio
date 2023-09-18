@@ -7,5 +7,7 @@ tech:
   - Python
   - sklearn
   - matplotlib
-showInProjects: false
+showInProjects: true
 ---
+
+A python sklearn model which is trained to determine which passengers survived the titanic disaster.

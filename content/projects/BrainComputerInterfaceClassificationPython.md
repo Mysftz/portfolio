@@ -8,5 +8,7 @@ tech:
   - Tensorflow
   - Pandas
   - Keras
-showInProjects: false
+showInProjects: true
 ---
+
+A revised version of my masters thesis in Python, following the same specifics as the Matlab CNN model.

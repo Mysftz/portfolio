@@ -5,5 +5,7 @@ github: 'https://github.com/mysftz/uk-birth-rate-classification'
 tech:
   - Python
   - sklearn
-showInProjects: false
+showInProjects: true
 ---
+
+A look into birth rates in the UK using python sklearn.

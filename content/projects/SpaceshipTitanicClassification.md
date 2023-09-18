@@ -7,5 +7,7 @@ tech:
   - Python
   - sklearn
   - matplotlib
-showInProjects: false
+showInProjects: true
 ---
+
+A Python model using sklearn to analyse whether a passenger boarded and travelled on the spaceship titanic.

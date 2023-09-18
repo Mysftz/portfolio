@@ -8,5 +8,7 @@ tech:
   - Overleaf
   - pdflatex
 company: 'University of Kent'
-showInProjects: false
+showInProjects: true
 ---
+
+A LaTeX bachelors research thesis in the design of a spacecraft to travel within 0.2AU of the sun.

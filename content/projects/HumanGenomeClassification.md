@@ -6,5 +6,7 @@ tech:
   - Python
   - keras
   - sklearn
-showInProjects: false
+showInProjects: true
 ---
+
+A review of human genome sequencing, analysing the variations and types of sequences that can be made.

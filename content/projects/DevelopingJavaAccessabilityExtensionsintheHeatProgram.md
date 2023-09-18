@@ -9,7 +9,7 @@ tech:
   - LaTeX
   - Heat
 company: 'University of Kent'
-showInProjects: false
+showInProjects: true
 ---
 
 A Java project to develop disability extension features into the HEAT software for user with visual/ audio disabilities.
