@@ -7,6 +7,6 @@ tech:
   - LaTeX
   - Overleaf
   - pdflatex
-  company: 'University of Kent'
+company: 'University of Kent'
 showInProjects: false
 ---
