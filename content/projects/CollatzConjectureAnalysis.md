@@ -1,6 +1,6 @@
 ---
 date: '2023-06-18'
-title: 'Collaztz Conjecture Analysis'
+title: 'Collatz Conjecture Analysis'
 github: 'https://github.com/mysftz/collatz-conjecture-analysis'
 tech:
   - Python
